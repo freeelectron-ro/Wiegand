@@ -1,0 +1,16 @@
+[Wiegand]
+google: wiegand encoder github
+https://github.com/monkeyboard/Wiegand-Protocol-Library-for-Arduino
+https://www.codeproject.com/Articles/1250921/Wieganduino-Generate-Wiegand-Codes-with-Arduino
+https://github.com/topics/wiegand-encoder
+https://github.com/topics/wiegand
+https://github.com/uhppoted/uhppoted-wiegand
+
+
+[arduino]
+https://arduino.github.io/arduino-cli/0.33/getting-started/
+https://askubuntu.com/questions/133235/how-do-i-allow-non-root-access-to-ttyusb0 - this worked after reboot
+
+
+[boot]
+https://www.instructables.com/Burn-a-New-Bootloader-Arduino-Pro-Mini/
